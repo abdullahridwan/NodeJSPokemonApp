@@ -1,0 +1,9 @@
+h1{
+  color: blue;
+}
+
+
+#picturep{
+  background-image: url("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png");
+  background-repeat: repeat-y;
+}
